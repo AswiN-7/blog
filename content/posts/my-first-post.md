@@ -1,5 +1,5 @@
 ---
-title: "Is Computer Science Aganist nature"
+title: "Is Computer Science Aganist nature?"
 date: 2022-06-24T22:51:21+05:30
 draft: false
 ---

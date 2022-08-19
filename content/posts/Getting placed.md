@@ -1,7 +1,7 @@
 ---
 title: "Getting Placed"
 date: 2022-07-20T23:05:50+05:30
-draft: true
+draft: false
 ---
 # Philosophy
       If we want to do something FIRST we have to know what we want

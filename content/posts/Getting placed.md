@@ -4,18 +4,21 @@ date: 2022-07-20T23:05:50+05:30
 draft: true
 ---
 # Philosophy
-      If you want to do something FIRST you have to know what you want
+      If we want to do something FIRST we have to know what we want
 
-As per the above statement lets get to know about getting placed 
-we take goal as marquee company
-
-What are the things you can do to make this journey of getting placed in a marquee company more smooth and enjoyable
-
-For placements general procedure will be
+## what we want ?
+	Getting placed
+	okay... 
+	we take our goal as Getting placed in a marquee company (>20LPA)
+	
+## how this placement works
+	It is a simple process of presenting our self to someone who knows nothing about ourselfs. 
+	To make them decide whether we suit for the role or not.
+### General steps invloved in this placements
 1. Screening 
 2. Analyzing 
 3. Evaluating
-## Iteration 1
+#### Iteration 1
 	Screening 
 		This is an general process it will be full of Aptitude questions
 	Analyzing
@@ -26,8 +29,15 @@ For placements general procedure will be
 			1. Programming Language
 			2. OS, DBMS, CN, DS&ALGO, OOPS
 			3. Full knowledge about project
-			4. UNIX    
-## iteration 2
+			4. UNIX 
+#### Iteration 2
+	Screening 
+		This is an general process it will be full of Aptitude questions
+	Analyzing
+		Programming round. Should be Medium to hard level problems
+	Evaluating 
+
+What are the things you can do to make this journey of getting placed in a marquee company more smooth and enjoyable
 Steps 
 	Make view about how the interview process will be
 		Geeksforgeeks (https://www.geeksforgeeks.org/company-interview-corner/)

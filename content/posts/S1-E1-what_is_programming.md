@@ -19,7 +19,7 @@ First, what is a language?
   here we take a conversation between two people as a analogy
   
   When two people are speaking..   
-  What are the things(rules) that should be followed between them to make the communication in a understandable way
+  What are the things(rules) that should be followed between them to make the communication to be understandable by both them
   * Both should understand what they are speaking this is first for this both them should speak a language which is known by them if one is speaking some language which is not known to other means communication itself could not be happen
   * Both should use words which known to both them so both of them understand the same meaning 
   * Words are supposed to be structured ie collectively all the words we speak should have some order in that like subject-verb-object and a clear meaning 
@@ -35,9 +35,9 @@ for this both them should know a language which is understood by both of them i.
 
 People created this Computer Programming Language to communicate with computer and make them work in a particular way as they want
 
-எனக்கு நம்மாழ்வார் என்றால் மிகவும் பிடிக்கும்
-I would love it if it is Nammazhvar
-Nammazhvarなら私はそれが大好きです(Nammazhvarnara watashi wa sore ga daisukidesu)
+எனக்கு நம்மாழ்வார் என்றால் மிகவும் பிடிக்கும்  
+I would love it if it is Nammazhvar  
+Nammazhvarなら私はそれが大好きです(Nammazhvarnara watashi wa sore ga daisukidesu)  
 
 
 From this we understand that language doesn't matter u r thought can be expressed in any language 

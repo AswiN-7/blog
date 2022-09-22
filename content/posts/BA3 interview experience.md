@@ -1,7 +1,7 @@
 ---
 title: "BA3 interview experience"
 date: 2022-07-20T23:04:52+05:30
-draft: true
+draft: false
 ---
 
 # Registered 

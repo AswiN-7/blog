@@ -39,8 +39,4 @@ draft: false
 
 • All the best
 
-• To know more visit 
-
-https://aswin-7.github.io/blog/
-
 	

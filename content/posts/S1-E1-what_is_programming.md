@@ -28,60 +28,26 @@ First, what is a language?
 Now, let us move towards computer
 
 Assume a person want to communicate with computer  
-for this both them should know a language which is understood by both of them i.e `computer programming language`
+for this both of them should know a language which is understood by both of them i.e `computer programming language`
 
 
 # Computer Programming Language
 
-People created this Computer Programming Language to communicate with computer and make them work in a particular way as they want
-
-எனக்கு நம்மாழ்வார் என்றால் மிகவும் பிடிக்கும்  
-I would love it if it is Nammazhvar  
-Nammazhvarなら私はそれが大好きです(Nammazhvarnara watashi wa sore ga daisukidesu)  
+People created this Computer Programming Language(CPL) to communicate with computer and make them work in a particular way as they want
+This CPL has some specific set of rules and regulations  
+We going to see that in upcomming episodes
 
 
-From this we understand that language doesn't matter u r thought can be expressed in any language 
-But what is important while u expressing something
+my things for packed trip yesterday itself I tomorrow's  
 
-THE COMMUNICATING PROCEDURE 
+Did you understand anything from this?   
+Not right   
+But you can understand all words individually but collectively it doesn't mean anything  
+Why its happened  
 
-pari=kuthirai
-
-
-
-
-
-
-An important point here to add is 
-
-What language we speak is not important what we speak is important 
-So don't be worried if you dunno some language and at the same time don't be in vain if u know some language(# kathu vakula oru karuthu) 
-
-Like this while u talking to computer u should know the language that computers know 
-This is why u should learn programming language which is known by computer 
-
-
-நான்  போக நேத்து எடுத்து  துனி  நாளைக்கு ஊருக்கு வச்சிட்டேன்.
-
-Did you understand anything from this not right 
-But you can understand all words individually but collectively it doesn't mean anything
-Why its happened
-
-Order of words is not correct 
-This is called syntax
-
-For tamil words are supposed to be in SVO form subject verb object 
-
-நான் நாளைக்கு ஊருக்கு போக நேத்தே துனி எடுத்து வச்சிட்டேன்.
-Likewise computer language has syntax 
-Computer will be like 
-If you want to tell me something, tell me in this order or else I wont read that. 
-
-note
-In japanese word order is sov 
-Instead of telling i ate apple they will say i apple ate  
-
-
-Okay now let us dive into c programming language 
-
-
+Order of words is not correct  
+This is called syntax  
+I packed my things yesterday itself for tomorrow's trip  
+Likewise computer language has syntax   
+Computer will be like   
+If you want to tell me something, tell me in Certain order or else I wont read that. 

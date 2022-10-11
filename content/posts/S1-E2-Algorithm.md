@@ -27,6 +27,16 @@ If the age is greater than or equal to 18
 Tell them they can able to vote  
 Else, tell them they cant able to vote  
 
+sample algorithm 
+
+Step 1 : Input Age   
+Step 2 : IF Age >= 18 then  
+           print "Yes"  
+         ELSE  
+           print "NO"  
+         END IF  
+Step 3 : END  
+
 This is called algorithm   
 A set instructions that is given by someone, to be followed, by someone to reach the solution.
 
